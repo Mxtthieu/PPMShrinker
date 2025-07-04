@@ -1,2 +1,2 @@
-# reduceHeightBy2
-Java code that takes a .ppm image and shrink it
+# PPM Shrinker
+Takes a ppm file as input and shrinks it
